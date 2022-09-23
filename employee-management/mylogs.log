@@ -1,0 +1,10 @@
+[INFO ] 2022-09-23 23:37:18.975 [main]  - is Employee Created:=true
+[ERROR] 2022-09-23 23:40:08.252 [main]  - Not able to find with first name: Charan
+[INFO ] 2022-09-23 23:41:40.780 [main]  - List of employees who are having first name as: Charan
+[INFO ] 2022-09-23 23:41:40.782 [main]  - Employee [firstNameOfEmployee=Charan, lastNameOfEmployee=s, addressOfEmployee=rrer, emailOfEmployee=Allu, phoneNumberOfEmployee=5456657687, dateOfBirthOfEmployee=2001-01-01, weddingDateOfEmployee=2033-04-02]
+[INFO ] 2022-09-23 23:41:40.782 [main]  - Employee [firstNameOfEmployee=Charan, lastNameOfEmployee=m, addressOfEmployee=ssdd, emailOfEmployee=Arjun, phoneNumberOfEmployee=542398988, dateOfBirthOfEmployee=2003-11-22, weddingDateOfEmployee=2022-12-25]
+[INFO ] 2022-09-23 23:41:51.339 [main]  - First name and PhoneNumber of all employees
+[INFO ] 2022-09-23 23:42:21.750 [main]  - Does an employee with email: krish get updated:=true
+[INFO ] 2022-09-23 23:43:42.652 [main]  - Does an employee with email: Yash get deleted:=true
+[INFO ] 2022-09-23 23:44:09.079 [main]  - First name and PhoneNumber of all employees who have born on=2003-11-22
+[INFO ] 2022-09-23 23:44:23.131 [main]  - First name and PhoneNumber of all employees who got married on=2022-12-25
